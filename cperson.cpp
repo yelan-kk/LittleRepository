@@ -1,12 +1,8 @@
 #include <iostream>
 
-class cperson
-{
-	cperson();
-	~cperson()
-	
-}
 int main()
 {
+	
+	system("pause");
 	return 0;
 }
