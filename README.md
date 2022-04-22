@@ -36,3 +36,13 @@
 Apex|198|12
 2077|199|8
 
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	system("pause");
+	return 0;
+}
+```
